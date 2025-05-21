@@ -1,7 +1,7 @@
 import React from 'react';
 import './possibility.css';
 
-const Pssibility = () => {
+const Possibility = () => {
   return (
     <div>
       Possibility

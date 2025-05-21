@@ -3,10 +3,10 @@ import './feature.css';
 
 const Feature = () => {
   return (
-    <div>
+    <div className="section">
       Feature
     </div>
-  )
-}
+  );
+};
 
-export default Feature
+export default Feature;

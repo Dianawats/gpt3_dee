@@ -6,7 +6,7 @@ const Article = () => {
     <div>
       Article
     </div>
-  )
-}
+  );
+};
 
-export default article
+export default Article;
