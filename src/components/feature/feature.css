@@ -2,7 +2,8 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
+    flex-direction: row;
 
     margin: 1rem;
 }
@@ -16,10 +17,10 @@
 .gpt3__features-container__feature-title h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 18;
+    font-size: 18px;
     line-height: 24px;
     letter-spacing: -0.04em;
-    color: #FFFFFF;
+    color: #FFF;
 }
 
 .gpt3__features-container__feature-title div {
@@ -32,7 +33,7 @@
 
 .gpt3__features-container__feature-text {
     flex: 2;
-    max-width: 390%;
+    max-width: 390px;
     display: flex;
 }
 

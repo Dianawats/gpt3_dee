@@ -19,4 +19,4 @@ const WhatGPT3 = () => (
   </div>
 );
 
-export default WhatGPT3
+export default WhatGPT3;
